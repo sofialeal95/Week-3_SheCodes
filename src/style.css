@@ -1,0 +1,15 @@
+body {
+  max-width: 600px;
+  text-align: center;
+  margin: 20 auto;
+  background-color: rgba(230, 201, 250, 0.4);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(59, 59, 59);
+}
+
+a:hover {
+  color: cadetblue;
+}
